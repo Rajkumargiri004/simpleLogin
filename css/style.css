@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+.nav-link{
+    color: rgb(10, 10, 10); 
+}
+a.nav-link{
+    margin: 1rem;
+}
+
+.img1{
+    width: 100%;
+    height: 30rem;
+    object-fit: cover;
+
+}
+.secndcontainer{
+    position: relative;
+    height: 30rem;
+    width: 100%;
+    background-color: #4192fc;
+  
+}
+
+form{
+    border: 2px solid black;
+    height: 25rem;
+    max-width: 25rem;
+    margin: auto;
+    padding: 5rem;
+    position: relative;
+    top: -30rem;
+    border-radius: 2rem;
+    box-shadow: 5px 8px 20px #6c706f
+}
+
